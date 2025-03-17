@@ -1,2 +1,3 @@
-SELECT * FROM Customer
-WHERE CustomerID= 1100;
+SELECT *
+FROM Customer
+WHERE CustomerID = 1100;
